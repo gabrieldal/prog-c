@@ -1,4 +1,4 @@
-/*1 - Defina a função quadrados_inv que recebe como argumento um número natural n e devolve a lista dos quadrados perfeitos até n, por ordem decrescente.
+/*1 - Defina a função quadrados_inv que recebe como argumento um número natural n e devolve a lista dos quadrados perfeitos até n, por ordem vetorrescente.
 Entrada
 quadrados_inv(6)
 Saída = [36, 25, 16, 9, 4, 1]*/

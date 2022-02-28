@@ -9,7 +9,7 @@ b. Mostrar todos os carros cujo o valor de compra foi maior que o valor médio (
 c. A partir do calculo de compra e venda, criar um vetor que armazene
 o valor de lucro de cada veículo (Função principal).
 
-d. Listar o vetor de lucro na tela, em ordem decrescente (Procedimento).*/
+d. Listar o vetor de lucro na tela, em ordem vetorrescente (Procedimento).*/
 
 #include <stdio.h>
 #include <stdlib.h>
@@ -49,7 +49,7 @@ void ordem (float luc[10]){
           
     }
       
-    printf("o vetor de lucro  em ordem decrescente: \n");
+    printf("o vetor de lucro  em ordem vetorrescente: \n");
     for (int i = 0; i < 10; i++){
         printf("%.2f \n", luc[i]);
     }

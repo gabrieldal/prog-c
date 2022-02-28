@@ -1,0 +1,2 @@
+NOME:ana NOTA:8,00
+NOME:joana NOTA:10,00
